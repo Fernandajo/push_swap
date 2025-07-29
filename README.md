@@ -9,6 +9,8 @@ Push-Swap is a compact sorting program designed as part of the 42 school curricu
   <img src="assets/push_swap_visualizer.gif" alt="push_swap in action" width="600"/>  
 </p>
 
+---
+
 ## 🔍 Project Overview
 
 The aim is simple yet challenging: sort a collection of integers using only two stacks (A and B) and a constrained command set (`sa`, `sb`, `ss`, `pa`, `pb`, `ra`, `rb`, `rr`, `rra`, `rrb`, `rrr`). `Push_swap`, calculates and prints the optimal sequence of operations to reorder stack A in ascending order.
