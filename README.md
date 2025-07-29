@@ -4,6 +4,10 @@
 Push-Swap is a compact sorting program designed as part of the 42 school curriculum, that seamlessly combines algorithmic thinking, data structure manipulation, and performance tuning under tight constraints. The algorithm written in C outputs a sequence of stack operations that sort a list of integers using only two stacks and a restricted set of moves, all with the goal of minimizing the number of operations.
 
 ---
+## Demo
+<p align="center">
+  <img src="assets/push_swap_visualizer.gif" alt="push_swap in action" width="600"/>  
+</p>
 
 ## 🔍 Project Overview
 
